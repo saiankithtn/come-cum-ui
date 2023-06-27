@@ -22,7 +22,6 @@ function App() {
         <Route path="/logIn" element={<Login />} />
       </Routes>
     </BrowserRouter>
-        
       </header>
     </div>
   );
